@@ -23,7 +23,7 @@
 }
 
 .header--scrolled::before {
-  background: rgba(13, 13, 13, 0.95);
+  background: rgba(248, 246, 242, 0.96);
   opacity: 1;
 }
 
@@ -116,7 +116,7 @@
   display: block;
   width: 22px;
   height: 2px;
-  background: var(--text);
+  background: var(--text-muted);
   transition: all var(--transition);
   transform-origin: center;
 }

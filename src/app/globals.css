@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -7,17 +7,17 @@
 }
 
 :root {
-  --gold:        #c9a84c;
-  --gold-light:  #e4c97a;
-  --gold-dark:   #a07830;
-  --dark:        #0d0d0d;
-  --dark-2:      #181818;
-  --dark-3:      #232323;
-  --dark-4:      #333333;
-  --text:        #e8e4de;
-  --text-muted:  #888888;
-  --text-dim:    #555555;
-  --font-heading: 'Playfair Display', Georgia, serif;
+  --gold:        #b8965a;
+  --gold-light:  #d4aa70;
+  --gold-dark:   #8a6e3a;
+  --dark:        #f8f6f2;
+  --dark-2:      #f0ede7;
+  --dark-3:      #e8e3da;
+  --dark-4:      #d0c9be;
+  --text:        #1e1a16;
+  --text-muted:  #6b6258;
+  --text-dim:    #a09890;
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
   --font-body:    'Inter', system-ui, sans-serif;
   --section-pad:  5rem 1.5rem;
   --radius:       4px;
