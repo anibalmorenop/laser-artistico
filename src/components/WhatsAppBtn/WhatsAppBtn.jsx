@@ -1,6 +1,6 @@
 import './whatsappbtn.css'
 
-const WHATSAPP = '584121234567'
+const WHATSAPP = '584140543763'
 
 export default function WhatsAppBtn() {
   return (

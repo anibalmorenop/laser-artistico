@@ -3,7 +3,7 @@ import { useState, useRef } from 'react'
 import './contacto.css'
 
 // ── Reemplaza con el número real de WhatsApp (código de país + número, sin espacios ni +)
-const WHATSAPP = '584121234567'
+const WHATSAPP = '584140543763'
 
 const tipos = [
   'Lápida en mármol',
