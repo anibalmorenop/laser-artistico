@@ -78,6 +78,13 @@
   color: var(--text-dim);
 }
 
+.footer__bottom-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
 .footer__bottom a {
   font-size: 0.8rem;
   color: var(--gold);
@@ -86,6 +93,19 @@
 
 .footer__bottom a:hover {
   color: var(--gold-light);
+}
+
+.footer__instagram {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  color: var(--text-muted) !important;
+  transition: color var(--transition) !important;
+}
+
+.footer__instagram:hover {
+  color: #e1306c !important;
 }
 
 @media (max-width: 600px) {

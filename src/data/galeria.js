@@ -18,7 +18,16 @@ export const imagenes = [
   { src: '/img/lapidas/IMG_20181108_170841.jpg',     categoria: 'marmol',     titulo: 'Lápida en mármol' },
   { src: '/img/lapidas/IMG_20180906_104218.jpg',     categoria: 'marmol',     titulo: 'Lápida en mármol' },
   { src: '/img/lapidas/IMG_20180307_091200.jpg',     categoria: 'marmol',     titulo: 'Lápida en mármol' },
-  // ── Columbarios ─────────────────────────────────────────────────────────
+  // ── Columbarios / Cenizas ────────────────────────────────────────────────
+  { src: '/img/cenizas/IMG_20230416_095217.jpg',     categoria: 'columbario', titulo: 'Nicho columbario' },
+  { src: '/img/cenizas/IMG_20230308_103911.jpg',     categoria: 'columbario', titulo: 'Nicho columbario' },
+  { src: '/img/cenizas/IMG-20241118-WA0046.jpg',     categoria: 'columbario', titulo: 'Placa para cenizas' },
+  { src: '/img/cenizas/IMG-20230707-WA0023.jpg',     categoria: 'columbario', titulo: 'Placa para cenizas' },
+  { src: '/img/cenizas/IMG_20220310_093113.jpg',     categoria: 'columbario', titulo: 'Nicho columbario' },
+  { src: '/img/cenizas/IMG_20210211_133959.jpg',     categoria: 'columbario', titulo: 'Placa columbario' },
+  { src: '/img/cenizas/IMG_20210211_134058.jpg',     categoria: 'columbario', titulo: 'Placa columbario' },
+  { src: '/img/cenizas/IMG-20201123-WA0171.jpg',     categoria: 'columbario', titulo: 'Placa para cenizas' },
+  { src: '/img/cenizas/d5e292b4-ea83-4aa7-8bbb-14adb7aae1a4.jpg', categoria: 'columbario', titulo: 'Nicho columbario' },
   { src: '/img/lapidas/1635864499811.jpg',           categoria: 'columbario', titulo: 'Placa columbario' },
   { src: '/img/lapidas/1636553273163.jpg',           categoria: 'columbario', titulo: 'Placa columbario' },
   { src: '/img/lapidas/IMG-20200612-WA0064.jpg',     categoria: 'columbario', titulo: 'Placa columbario' },
